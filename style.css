@@ -295,13 +295,12 @@
     }
     .bgshade{
      background-color: rgba(0,0,0,0.5);
-     height: 230px
+     height: 225px
     }
     .container{
      background-image: url(public/img/r.webp);
      background-repeat:no-repeat;
      background-size: 100%;
-     
     }
 
     .name{
